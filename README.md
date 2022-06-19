@@ -2,10 +2,15 @@
 <img src="./logo_animated.gif" width="200" border="5" alt="buijs software logo"/>
 </div>
 
-<p align='center'>
+<p align="center">
+
+I am Gillian Buijs, a Software Developer based in The Netherlands. I love building software. Frontend, backend, mobile...
+
 <a href="https://www.linkedin.com/in/gillian-buijs-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.buijs.dev"><img src="https://img.shields.io/badge/buijs.dev-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buijs-dev&hide=Ruby,Shell&layout=compact&theme=tokyonight)](https://github.com/buijs-dev/github-readme-stats)
 
