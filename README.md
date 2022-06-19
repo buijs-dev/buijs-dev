@@ -1,6 +1,7 @@
 <div>
 <img src="./logo_animated.gif" width="200" border="5" alt="buijs software logo"/>
 </div>
+<br />
 
 I am Gillian Buijs, a Software Developer based in The Netherlands. 
 
