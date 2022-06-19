@@ -1,8 +1,8 @@
 ## Gillian Buijs
 #### Software Engineer from The Netherlands
 
-Inline-style:
-![alt text](https://github.com/buijs-dev/buijs-dev/blob/main/logo_animated.gif)
+|![alt text](https://github.com/buijs-dev/buijs-dev/blob/main/logo_animated.gif)|
+|-|
 
 
 ## Tools
@@ -14,8 +14,9 @@ Inline-style:
       <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=buijs-dev&theme=blueberry_duo)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buijs-dev&hide=Ruby,Shell&layout=compact&theme=tokyonight)](https://github.com/buijs-dev/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=buijs-dev&theme=tokyonight)](https://git.io/streak-stats)
 
 <!-- 
 Source for images: https://github.com/devicons/devicon/tree/master/icons
