@@ -1,7 +1,7 @@
 ## Gillian Buijs
 #### Software Engineer from The Netherlands
 
-[![https://github.com/buijs-dev/buijs-dev/blob/main/logo_animated.gif|width=100]]
+[<img src="./logo_animated.gif" width="100" />](./logo_animated.gif)
 
 ## Tools
 
