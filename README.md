@@ -5,19 +5,23 @@
 <p>
 
 I am Gillian Buijs, a Software Developer based in The Netherlands. <br/>
-I love building software. Frontend, backend, mobile...
+I love building software. Frontend, backend, mobile... <br/>
+See pins for what I am working on. Star it if you like it!
+
 
 <a href="https://www.linkedin.com/in/gillian-buijs-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.buijs.dev"><img src="https://img.shields.io/badge/buijs.dev-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+[![OCP cert](https://img.shields.io/badge/Oracle%20Certified%20Professional-Java%208-red?style=for-the-badge&logo=oracle)](https://www.credly.com/badges/81545902-59c4-4b31-9743-03bbcb28f0aa)
+
 </p>
 
 <br />
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buijs-dev&hide=Ruby,Shell&layout=compact&theme=tokyonight)](https://github.com/buijs-dev/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=buijs-dev&theme=tokyonight)](https://git.io/streak-stats)
 
-## Tools
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
