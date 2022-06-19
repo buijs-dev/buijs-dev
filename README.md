@@ -1,7 +1,15 @@
 <div align="center">
-[<img src="./logo_animated.gif" width="200"  alt="buijs software logo"/>](./logo_animated.gif)
+<img src="./logo_animated.gif" width="200" border="5" alt="buijs software logo"/>
 </div>
 
+<p align='center'>
+<a href="https://www.linkedin.com/in/gillian-buijs-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.buijs.dev"><img src="https://img.shields.io/badge/buijs.dev-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buijs-dev&hide=Ruby,Shell&layout=compact&theme=tokyonight)](https://github.com/buijs-dev/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=buijs-dev&theme=tokyonight)](https://git.io/streak-stats)
 
 ## Tools
 
@@ -11,10 +19,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buijs-dev&hide=Ruby,Shell&layout=compact&theme=tokyonight)](https://github.com/buijs-dev/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=buijs-dev&theme=tokyonight)](https://git.io/streak-stats)
 
 <!-- 
 Source for images: https://github.com/devicons/devicon/tree/master/icons
