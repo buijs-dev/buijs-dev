@@ -1,7 +1,4 @@
-<div>
-<img src="./logo_animated.gif" width="200" border="5" alt="buijs software logo"/>
-</div>
-<br />
+[<img src="https://github.com/buijs-dev/klutter-dart/blob/main/logo_animated.gif?raw=true" width="300" alt="buijs software logo" />](https://github.com/buijs-dev)
 
 I am Gillian Buijs, a Software Developer based in The Netherlands. 
 
